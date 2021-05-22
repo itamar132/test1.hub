@@ -1,0 +1,16 @@
+<meta name="viewport" content="width=device-width; height=device-height;"></meta>
+<link rel="stylesheet" href="resource://content-accessible/ImageDocument.css"></link>
+<link rel="stylesheet" href="resource://content-accessible/TopLevelImageDocument.css"></link>
+<link rel="stylesheet" href="chrome://global/skin/media/TopLevelImageDocument.css"></link>
+
+<title>
+    background.jpg (JPEG Image, 1920 × 878 pixels) — Scaled (15%)
+</title>
+
+</head>
+
+<body>
+    <img src="https://i.pinimg.com/originals/23/3a/d8/233ad8233ab0fa8157b72898e8732a24.jpg" alt="https://i.pinimg.com/originals/23/3a/d8/233ad8233ab0fa8157b72898e8732a24.jpg" class="shrinkToFit" width="290" height="133">
+</body>
+
+</html>
